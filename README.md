@@ -1,5 +1,5 @@
 # Angular 2 Tour of Heroes
-Angukar 2 using TypeScript
+Angular 2 using TypeScript
 ```
 npm install
 ```
